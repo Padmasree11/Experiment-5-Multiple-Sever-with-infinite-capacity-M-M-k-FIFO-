@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-12-15 at 13 31 56_3311d861](https://github.com/user-attachments/assets/9b598fcd-fb05-49e6-bc3d-30ad5705f95c)# Experiment-5-Multiple-Sever-with-infinite-capacity-(M/M/k)-(oo/FIFO)
+
 # Aim
  	To find 
   
